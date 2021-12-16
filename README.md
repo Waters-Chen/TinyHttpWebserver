@@ -44,7 +44,7 @@
   
   测试结果如下：2000个客户端，测试时间5秒，实际性能也要取决于服务器
   
-  ![webbench测试结果](./webbench测试结果.png)
+  <img src="./webbench测试结果.png" alt="webbench测试结果;" />
 
 ## 项目笔记
 
