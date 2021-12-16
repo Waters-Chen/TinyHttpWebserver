@@ -40,7 +40,11 @@
 
   进入test_pressure文件夹，
 
-  `./webbench -c 客户端数目 -t 事件 网址`
+  `./webbench -c 客户端数目 -t 时间 网址`
+  
+  测试结果如下：2000个客户端，测试时间5秒，实际性能也要取决于服务器
+  
+  ![webbench测试结果](./webbench测试结果.png)
 
 ## 项目笔记
 
